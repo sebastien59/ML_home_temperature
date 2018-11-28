@@ -1,2 +1,5 @@
 .ipynb_checkpoints/
+@eaDir/
+.~lock*
+presence.model.pickle
 export_presence.csv
